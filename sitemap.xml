@@ -11,20 +11,32 @@
     <loc>https://roipo.github.io/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://roipo.github.io/publication-type/2/</loc>
-    <lastmod>2021-08-02T22:54:00+00:00</lastmod>
+    <loc>https://roipo.github.io/publication-type/1/</loc>
+    <lastmod>2021-08-04T02:13:42+03:00</lastmod>
   </url><url>
-    <loc>https://roipo.github.io/publication/3d-surface-reconstruction-using-a-generalized-distance-function/</loc>
-    <lastmod>2021-08-02T22:54:00+00:00</lastmod>
+    <loc>https://roipo.github.io/publication-type/2/</loc>
+    <lastmod>2021-08-04T02:13:43+03:00</lastmod>
+  </url><url>
+    <loc>https://roipo.github.io/publication/huber-2021-designing/</loc>
+    <lastmod>2021-08-04T02:13:43+03:00</lastmod>
+  </url><url>
+    <loc>https://roipo.github.io/publication/zimmermann-2021-dynamic/</loc>
+    <lastmod>2021-08-04T02:13:37+03:00</lastmod>
+  </url><url>
+    <loc>https://roipo.github.io/publication/zimmermann-2021-go/</loc>
+    <lastmod>2021-08-04T02:13:42+03:00</lastmod>
+  </url><url>
+    <loc>https://roipo.github.io/publication/kennel-2021-manipulability/</loc>
+    <lastmod>2021-08-04T02:13:35+03:00</lastmod>
   </url><url>
     <loc>https://roipo.github.io/publication_types/</loc>
-    <lastmod>2021-08-02T22:54:00+00:00</lastmod>
+    <lastmod>2021-08-04T02:13:43+03:00</lastmod>
   </url><url>
     <loc>https://roipo.github.io/publication/</loc>
-    <lastmod>2021-08-02T22:54:00+00:00</lastmod>
+    <lastmod>2021-08-04T02:13:43+03:00</lastmod>
   </url><url>
-    <loc>https://roipo.github.io/publication/example/</loc>
-    <lastmod>2021-08-02T22:35:33+00:00</lastmod>
+    <loc>https://roipo.github.io/publication/wang-2021-task/</loc>
+    <lastmod>2021-08-04T02:13:40+03:00</lastmod>
   </url><url>
     <loc>https://roipo.github.io/tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
@@ -50,11 +62,56 @@
     <loc>https://roipo.github.io/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://roipo.github.io/publication-type/6/</loc>
+    <lastmod>2021-08-04T02:13:33+03:00</lastmod>
+  </url><url>
+    <loc>https://roipo.github.io/publication/zimmermann-2020-multi/</loc>
+    <lastmod>2021-08-04T02:13:30+03:00</lastmod>
+  </url><url>
+    <loc>https://roipo.github.io/publication/velich-2020-interactive/</loc>
+    <lastmod>2021-08-04T02:13:33+03:00</lastmod>
+  </url><url>
+    <loc>https://roipo.github.io/publication/duenser-2020-robocut/</loc>
+    <lastmod>2021-08-04T02:13:32+03:00</lastmod>
+  </url><url>
     <loc>https://roipo.github.io/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://roipo.github.io/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://roipo.github.io/publication/zimmermann-2019-optimal/</loc>
+    <lastmod>2021-08-04T02:13:23+03:00</lastmod>
+  </url><url>
+    <loc>https://roipo.github.io/publication/zimmermann-2019-puppetmaster/</loc>
+    <lastmod>2021-08-04T02:13:26+03:00</lastmod>
+  </url><url>
+    <loc>https://roipo.github.io/publication/bern-2019-trajectory/</loc>
+    <lastmod>2021-08-04T02:13:24+03:00</lastmod>
+  </url><url>
+    <loc>https://roipo.github.io/publication/duenser-2018-interactive/</loc>
+    <lastmod>2021-08-04T02:13:38+03:00</lastmod>
+  </url><url>
+    <loc>https://roipo.github.io/publication/bern-2018-model/</loc>
+    <lastmod>2021-08-04T02:13:21+03:00</lastmod>
+  </url><url>
+    <loc>https://roipo.github.io/publication/wolff-2018-packable/</loc>
+    <lastmod>2021-08-04T02:13:17+03:00</lastmod>
+  </url><url>
+    <loc>https://roipo.github.io/publication/schuller-2018-shape/</loc>
+    <lastmod>2021-08-04T02:13:20+03:00</lastmod>
+  </url><url>
+    <loc>https://roipo.github.io/publication/geilinger-2018-skaterbots/</loc>
+    <lastmod>2021-08-04T02:13:19+03:00</lastmod>
+  </url><url>
+    <loc>https://roipo.github.io/publication/poranne-2017-autocuts/</loc>
+    <lastmod>2021-08-04T02:13:16+03:00</lastmod>
+  </url><url>
+    <loc>https://roipo.github.io/publication/shtengel-2017-geometric/</loc>
+    <lastmod>2021-08-04T02:13:14+03:00</lastmod>
+  </url><url>
+    <loc>https://roipo.github.io/publication/rabinovich-2017-scalable/</loc>
+    <lastmod>2021-08-04T02:13:11+03:00</lastmod>
   </url><url>
     <loc>https://roipo.github.io/tag/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
@@ -64,6 +121,48 @@
   </url><url>
     <loc>https://roipo.github.io/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://roipo.github.io/publication-type/4/</loc>
+    <lastmod>2021-08-04T02:13:13+03:00</lastmod>
+  </url><url>
+    <loc>https://roipo.github.io/publication/poranne-2016-simple/</loc>
+    <lastmod>2021-08-04T02:13:13+03:00</lastmod>
+  </url><url>
+    <loc>https://roipo.github.io/publication-type/0/</loc>
+    <lastmod>2021-08-04T02:13:10+03:00</lastmod>
+  </url><url>
+    <loc>https://roipo.github.io/publication/lipman-2015-good/</loc>
+    <lastmod>2021-08-04T02:13:10+03:00</lastmod>
+  </url><url>
+    <loc>https://roipo.github.io/publication/poranne-2015-linear/</loc>
+    <lastmod>2021-08-04T02:13:02+03:00</lastmod>
+  </url><url>
+    <loc>https://roipo.github.io/publication/aigerman-2015-seamless/</loc>
+    <lastmod>2021-08-04T02:13:09+03:00</lastmod>
+  </url><url>
+    <loc>https://roipo.github.io/publication-type/7/</loc>
+    <lastmod>2021-08-04T02:13:28+03:00</lastmod>
+  </url><url>
+    <loc>https://roipo.github.io/publication/lipman-2014-feature/</loc>
+    <lastmod>2021-08-04T02:13:05+03:00</lastmod>
+  </url><url>
+    <loc>https://roipo.github.io/publication/aigerman-2014-lifted/</loc>
+    <lastmod>2021-08-04T02:13:06+03:00</lastmod>
+  </url><url>
+    <loc>https://roipo.github.io/publication/poranne-2014-provably/</loc>
+    <lastmod>2021-08-04T02:13:07+03:00</lastmod>
+  </url><url>
+    <loc>https://roipo.github.io/publication/poranne-2014-topics/</loc>
+    <lastmod>2021-08-04T02:13:28+03:00</lastmod>
+  </url><url>
+    <loc>https://roipo.github.io/publication/poranne-2013-interactive/</loc>
+    <lastmod>2021-08-04T02:13:00+03:00</lastmod>
+  </url><url>
+    <loc>https://roipo.github.io/publication/weber-2012-biharmonic/</loc>
+    <lastmod>2021-08-04T02:13:01+03:00</lastmod>
+  </url><url>
+    <loc>https://roipo.github.io/publication/poranne-20103-d/</loc>
+    <lastmod>2021-08-04T02:13:03+03:00</lastmod>
   </url><url>
     <loc>https://roipo.github.io/admin/</loc>
   </url>

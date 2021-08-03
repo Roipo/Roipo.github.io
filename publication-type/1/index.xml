@@ -2,33 +2,78 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 | Academic</title>
-    <link>https://example.com/publication-type/1/</link>
-      <atom:link href="https://example.com/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://roipo.github.io/publication-type/1/</link>
+      <atom:link href="https://roipo.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://roipo.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
-      <link>https://example.com/publication-type/1/</link>
+      <link>https://roipo.github.io/publication-type/1/</link>
     </image>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://example.com/publication/example/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Go Fetch! - Dynamic Grasps using Boston Dynamics Spot with External Robotic Arm</title>
+      <link>https://roipo.github.io/publication/zimmermann-2021-go/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://roipo.github.io/publication/zimmermann-2021-go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manipulability optimization for multi-arm teleoperation</title>
+      <link>https://roipo.github.io/publication/kennel-2021-manipulability/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://roipo.github.io/publication/kennel-2021-manipulability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Task Autocorrection for Immersive Teleoperation</title>
+      <link>https://roipo.github.io/publication/wang-2021-task/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://roipo.github.io/publication/wang-2021-task/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive robotic manipulation of elastic objects</title>
+      <link>https://roipo.github.io/publication/duenser-2018-interactive/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://roipo.github.io/publication/duenser-2018-interactive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Packable springs</title>
+      <link>https://roipo.github.io/publication/wolff-2018-packable/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://roipo.github.io/publication/wolff-2018-packable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive planarization and optimization of 3D meshes</title>
+      <link>https://roipo.github.io/publication/poranne-2013-interactive/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://roipo.github.io/publication/poranne-2013-interactive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biharmonic coordinates</title>
+      <link>https://roipo.github.io/publication/weber-2012-biharmonic/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://roipo.github.io/publication/weber-2012-biharmonic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D surface reconstruction using a generalized distance function</title>
+      <link>https://roipo.github.io/publication/poranne-20103-d/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://roipo.github.io/publication/poranne-20103-d/</guid>
+      <description></description>
     </item>
     
   </channel>

@@ -5,7 +5,7 @@
     <link>https://roipo.github.io/publication-type/2/</link>
       <atom:link href="https://roipo.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Aug 2021 22:54:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://roipo.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
@@ -13,18 +13,146 @@
     </image>
     
     <item>
-      <title>3D Surface Reconstruction using a Generalized Distance Function</title>
-      <link>https://roipo.github.io/publication/3d-surface-reconstruction-using-a-generalized-distance-function/</link>
-      <pubDate>Mon, 02 Aug 2021 22:54:00 +0000</pubDate>
-      <guid>https://roipo.github.io/publication/3d-surface-reconstruction-using-a-generalized-distance-function/</guid>
+      <title>Designing actuation systems for animatronic figures via globally optimal discrete search</title>
+      <link>https://roipo.github.io/publication/huber-2021-designing/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://roipo.github.io/publication/huber-2021-designing/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>3D Surface Reconstruction using a Generalized Distance Function</title>
-      <link>https://roipo.github.io/publication/example/</link>
-      <pubDate>Mon, 02 Aug 2021 22:35:33 +0000</pubDate>
-      <guid>https://roipo.github.io/publication/example/</guid>
+      <title>Dynamic manipulation of deformable objects with implicit integration</title>
+      <link>https://roipo.github.io/publication/zimmermann-2021-dynamic/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://roipo.github.io/publication/zimmermann-2021-dynamic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A multi-level optimization framework for simultaneous grasping and motion planning</title>
+      <link>https://roipo.github.io/publication/zimmermann-2020-multi/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://roipo.github.io/publication/zimmermann-2020-multi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RoboCut: hot-wire cutting with robot-controlled flexible rods</title>
+      <link>https://roipo.github.io/publication/duenser-2020-robocut/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://roipo.github.io/publication/duenser-2020-robocut/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal control via second order sensitivity analysis</title>
+      <link>https://roipo.github.io/publication/zimmermann-2019-optimal/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://roipo.github.io/publication/zimmermann-2019-optimal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PuppetMaster: robotic animation of marionettes</title>
+      <link>https://roipo.github.io/publication/zimmermann-2019-puppetmaster/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://roipo.github.io/publication/zimmermann-2019-puppetmaster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trajectory optimization for cable-driven soft robot locomotion</title>
+      <link>https://roipo.github.io/publication/bern-2019-trajectory/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://roipo.github.io/publication/bern-2019-trajectory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model-based optimization of tendon layouts for soft robots</title>
+      <link>https://roipo.github.io/publication/bern-2018-model/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://roipo.github.io/publication/bern-2018-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shape representation by zippables</title>
+      <link>https://roipo.github.io/publication/schuller-2018-shape/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://roipo.github.io/publication/schuller-2018-shape/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skaterbots: Optimization-based design and motion synthesis for robotic creatures with legs and wheels</title>
+      <link>https://roipo.github.io/publication/geilinger-2018-skaterbots/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://roipo.github.io/publication/geilinger-2018-skaterbots/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autocuts: simultaneous distortion and cut optimization for UV mapping</title>
+      <link>https://roipo.github.io/publication/poranne-2017-autocuts/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://roipo.github.io/publication/poranne-2017-autocuts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geometric optimization via composite majorization</title>
+      <link>https://roipo.github.io/publication/shtengel-2017-geometric/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://roipo.github.io/publication/shtengel-2017-geometric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable locally injective mappings</title>
+      <link>https://roipo.github.io/publication/rabinovich-2017-scalable/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://roipo.github.io/publication/rabinovich-2017-scalable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On linear spaces of polyhedral meshes</title>
+      <link>https://roipo.github.io/publication/poranne-2015-linear/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://roipo.github.io/publication/poranne-2015-linear/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seamless surface mappings</title>
+      <link>https://roipo.github.io/publication/aigerman-2015-seamless/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://roipo.github.io/publication/aigerman-2015-seamless/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature matching with bounded distortion</title>
+      <link>https://roipo.github.io/publication/lipman-2014-feature/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://roipo.github.io/publication/lipman-2014-feature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lifted bijections for low distortion surface mappings</title>
+      <link>https://roipo.github.io/publication/aigerman-2014-lifted/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://roipo.github.io/publication/aigerman-2014-lifted/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Provably good planar mappings</title>
+      <link>https://roipo.github.io/publication/poranne-2014-provably/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://roipo.github.io/publication/poranne-2014-provably/</guid>
       <description></description>
     </item>
     
