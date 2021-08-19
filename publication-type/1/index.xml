@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 | Academic</title>
+    <title>1 | Roi Poranne - Research</title>
     <link>https://roipo.github.io/publication-type/1/</link>
       <atom:link href="https://roipo.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
@@ -70,9 +70,9 @@
     
     <item>
       <title>3D surface reconstruction using a generalized distance function</title>
-      <link>https://roipo.github.io/publication/poranne-20103-d/</link>
+      <link>https://roipo.github.io/publication/poranne-2010-3dsurface/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://roipo.github.io/publication/poranne-20103-d/</guid>
+      <guid>https://roipo.github.io/publication/poranne-2010-3dsurface/</guid>
       <description></description>
     </item>
     

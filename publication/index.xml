@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Academic</title>
+    <title>Publications | Roi Poranne - Research</title>
     <link>https://roipo.github.io/publication/</link>
       <atom:link href="https://roipo.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
@@ -173,14 +173,6 @@
     </item>
     
     <item>
-      <title>Good planar mappings and controlling singular values with semidefinite programming</title>
-      <link>https://roipo.github.io/publication/lipman-2015-good/</link>
-      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>https://roipo.github.io/publication/lipman-2015-good/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>On linear spaces of polyhedral meshes</title>
       <link>https://roipo.github.io/publication/poranne-2015-linear/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
@@ -221,14 +213,6 @@
     </item>
     
     <item>
-      <title>Topics in Shape Optimization and Exploration</title>
-      <link>https://roipo.github.io/publication/poranne-2014-topics/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://roipo.github.io/publication/poranne-2014-topics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Interactive planarization and optimization of 3D meshes</title>
       <link>https://roipo.github.io/publication/poranne-2013-interactive/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
@@ -246,9 +230,9 @@
     
     <item>
       <title>3D surface reconstruction using a generalized distance function</title>
-      <link>https://roipo.github.io/publication/poranne-20103-d/</link>
+      <link>https://roipo.github.io/publication/poranne-2010-3dsurface/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://roipo.github.io/publication/poranne-20103-d/</guid>
+      <guid>https://roipo.github.io/publication/poranne-2010-3dsurface/</guid>
       <description></description>
     </item>
     

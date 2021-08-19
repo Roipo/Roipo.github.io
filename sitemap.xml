@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://roipo.github.io/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://roipo.github.io/talk/example-talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
     <loc>https://roipo.github.io/event/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://roipo.github.io/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
     <loc>https://roipo.github.io/publication-type/1/</loc>
@@ -128,20 +128,11 @@
     <loc>https://roipo.github.io/publication/poranne-2016-simple/</loc>
     <lastmod>2021-08-04T02:13:13+03:00</lastmod>
   </url><url>
-    <loc>https://roipo.github.io/publication-type/0/</loc>
-    <lastmod>2021-08-04T02:13:10+03:00</lastmod>
-  </url><url>
-    <loc>https://roipo.github.io/publication/lipman-2015-good/</loc>
-    <lastmod>2021-08-04T02:13:10+03:00</lastmod>
-  </url><url>
     <loc>https://roipo.github.io/publication/poranne-2015-linear/</loc>
     <lastmod>2021-08-04T02:13:02+03:00</lastmod>
   </url><url>
     <loc>https://roipo.github.io/publication/aigerman-2015-seamless/</loc>
     <lastmod>2021-08-04T02:13:09+03:00</lastmod>
-  </url><url>
-    <loc>https://roipo.github.io/publication-type/7/</loc>
-    <lastmod>2021-08-04T02:13:28+03:00</lastmod>
   </url><url>
     <loc>https://roipo.github.io/publication/lipman-2014-feature/</loc>
     <lastmod>2021-08-04T02:13:05+03:00</lastmod>
@@ -152,18 +143,13 @@
     <loc>https://roipo.github.io/publication/poranne-2014-provably/</loc>
     <lastmod>2021-08-04T02:13:07+03:00</lastmod>
   </url><url>
-    <loc>https://roipo.github.io/publication/poranne-2014-topics/</loc>
-    <lastmod>2021-08-04T02:13:28+03:00</lastmod>
-  </url><url>
     <loc>https://roipo.github.io/publication/poranne-2013-interactive/</loc>
     <lastmod>2021-08-04T02:13:00+03:00</lastmod>
   </url><url>
     <loc>https://roipo.github.io/publication/weber-2012-biharmonic/</loc>
     <lastmod>2021-08-04T02:13:01+03:00</lastmod>
   </url><url>
-    <loc>https://roipo.github.io/publication/poranne-20103-d/</loc>
+    <loc>https://roipo.github.io/publication/poranne-2010-3dsurface/</loc>
     <lastmod>2021-08-04T02:13:03+03:00</lastmod>
-  </url><url>
-    <loc>https://roipo.github.io/admin/</loc>
   </url>
 </urlset>

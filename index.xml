@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
+    <title>Roi Poranne - Research</title>
     <link>https://roipo.github.io/</link>
       <atom:link href="https://roipo.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
+    <description>Roi Poranne - Research</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://roipo.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Academic</title>
+      <title>Roi Poranne - Research</title>
       <link>https://roipo.github.io/</link>
     </image>
     
@@ -412,14 +412,6 @@ Three
     </item>
     
     <item>
-      <title>Good planar mappings and controlling singular values with semidefinite programming</title>
-      <link>https://roipo.github.io/publication/lipman-2015-good/</link>
-      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>https://roipo.github.io/publication/lipman-2015-good/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>On linear spaces of polyhedral meshes</title>
       <link>https://roipo.github.io/publication/poranne-2015-linear/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
@@ -460,14 +452,6 @@ Three
     </item>
     
     <item>
-      <title>Topics in Shape Optimization and Exploration</title>
-      <link>https://roipo.github.io/publication/poranne-2014-topics/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://roipo.github.io/publication/poranne-2014-topics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Interactive planarization and optimization of 3D meshes</title>
       <link>https://roipo.github.io/publication/poranne-2013-interactive/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
@@ -485,17 +469,9 @@ Three
     
     <item>
       <title>3D surface reconstruction using a generalized distance function</title>
-      <link>https://roipo.github.io/publication/poranne-20103-d/</link>
+      <link>https://roipo.github.io/publication/poranne-2010-3dsurface/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://roipo.github.io/publication/poranne-20103-d/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://roipo.github.io/admin/config.yml</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://roipo.github.io/admin/config.yml</guid>
+      <guid>https://roipo.github.io/publication/poranne-2010-3dsurface/</guid>
       <description></description>
     </item>
     
