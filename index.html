@@ -690,7 +690,14 @@
 
     
 
-      
+      <script type="text/javascript">
+function getRandomImageName(imgs) {
+  var num = Math.floor( Math.random() * imgs.length);
+  return imgs[num];
+}
+</script>
+
+
 
 
 
@@ -706,17 +713,33 @@
 
 
 
+  
+  
+
+  
+  
+
+  
+  
+
+
+
+
+
+
 <div class="row">
   <div class="col-12 col-lg-4">
     <div id="profile">
 
       
-      
-      <img class="avatar avatar-square"
+      <img id="mypic" class="avatar avatar-square"
            width="300" height="210"
            src="/authors/roi-poranne/avatar_hu927e366baa6fbe33611ee4e203f09413_1390676_300x210_fill_lanczos_center_3.png" alt="Roi Poranne">
-      
-
+      <script>
+        const img = document.getElementById("mypic");
+        var src = getRandomImageName(["/authors/roi-poranne/avatar_hu927e366baa6fbe33611ee4e203f09413_1390676_300x210_fill_lanczos_center_3.png","/authors/roi-poranne/avatar2_hud031ce710fe3dbe487dfbe70b3946c19_1390676_300x210_fill_lanczos_center_3.png","/authors/roi-poranne/avatar_greenscreen_huc037aa7f49e0774654b4998fb7c91990_3438917_300x210_fill_lanczos_center_3.png"]);
+        img.src = src;
+      </script>
       <div class="portrait-title">
         <h2>Roi Poranne</h2>
         
