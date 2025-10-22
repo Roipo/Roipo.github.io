@@ -1,148 +1,53 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Roi Poranne - Research</title>
-    <link>https://roipo.github.io/</link>
-      <atom:link href="https://roipo.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Roi Poranne - Research</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://roipo.github.io/media/icon_huadd83f1983dc09b1610f2d599eb02878_381767_512x512_fill_lanczos_center_3.png</url>
-      <title>Roi Poranne - Research</title>
-      <link>https://roipo.github.io/</link>
-    </image>
-    
-    <item>
-      <title>Example Talk</title>
-      <link>https://roipo.github.io/talk/example-talk/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://roipo.github.io/talk/example-talk/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Roi Poranne - Research</title><link>https://roipo.github.io/</link><atom:link href="https://roipo.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Roi Poranne - Research</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate><image><url>https://roipo.github.io/media/icon_hu_62c0c31eddfc2066.png</url><title>Roi Poranne - Research</title><link>https://roipo.github.io/</link></image><item><title>Example Talk</title><link>https://roipo.github.io/talk/example-talk/</link><pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate><guid>https://roipo.github.io/talk/example-talk/</guid><description>&lt;div class="alert alert-note"&gt;
+&lt;div&gt;
+Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+&lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href="https://wowchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener"&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener"&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>RealisticHands A Hybrid Model for 3D Hand Reconstruction</title>
-      <link>https://roipo.github.io/publication/seeber-2021-realistic/</link>
-      <pubDate>Tue, 03 Aug 2021 23:17:03 +0000</pubDate>
-      <guid>https://roipo.github.io/publication/seeber-2021-realistic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Designing actuation systems for animatronic figures via globally optimal discrete search</title>
-      <link>https://roipo.github.io/publication/huber-2021-designing/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://roipo.github.io/publication/huber-2021-designing/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/fBYlgEhnKgk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-</description>
-    </item>
-    
-    <item>
-      <title>Dynamic manipulation of deformable objects with implicit integration</title>
-      <link>https://roipo.github.io/publication/zimmermann-2021-dynamic/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://roipo.github.io/publication/zimmermann-2021-dynamic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Go Fetch! - Dynamic Grasps using Boston Dynamics Spot with External Robotic Arm</title>
-      <link>https://roipo.github.io/publication/zimmermann-2021-go/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://roipo.github.io/publication/zimmermann-2021-go/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Manipulability optimization for multi-arm teleoperation</title>
-      <link>https://roipo.github.io/publication/kennel-2021-manipulability/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://roipo.github.io/publication/kennel-2021-manipulability/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Task Autocorrection for Immersive Teleoperation</title>
-      <link>https://roipo.github.io/publication/wang-2021-task/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://roipo.github.io/publication/wang-2021-task/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://roipo.github.io/post/getting-started/</link>
-      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://roipo.github.io/post/getting-started/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener"&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;</description></item><item><title>Welcome to Wowchemy, the website builder for Hugo</title><link>https://roipo.github.io/post/getting-started/</link><pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate><guid>https://roipo.github.io/post/getting-started/</guid><description>&lt;h2 id="overview"&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
 &lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
 &lt;/ol&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
-    &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
+&lt;figure id="figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device"&gt;
+&lt;div class="d-flex justify-content-center"&gt;
+&lt;div class="w-100" &gt;&lt;img src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" alt="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." loading="lazy" data-zoomable /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;figcaption&gt;
+The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
+&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2 id="get-started"&gt;Get Started&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;👉 &lt;a href=&#34;https://wowchemy.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;📚 &lt;a href=&#34;https://wowchemy.com/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;Wowchemy community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/wowchemy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@wowchemy&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%28%23MadeWithWowchemy%20OR%20%23MadeWithAcademic%29&amp;amp;src=typed_query&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithWowchemy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💡 &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Wowchemy&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;⬆️ &lt;strong&gt;Updating Wowchemy?&lt;/strong&gt; View the &lt;a href=&#34;https://wowchemy.com/docs/guide/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Guide&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;👉 &lt;a href="https://wowchemy.com/templates/" target="_blank" rel="noopener"&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href="https://wowchemy.com/docs/" target="_blank" rel="noopener"&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 &lt;a href="https://discord.gg/z8wNYzb" target="_blank" rel="noopener"&gt;Chat with the &lt;strong&gt;Wowchemy community&lt;/strong&gt;&lt;/a&gt; or &lt;a href="https://discourse.gohugo.io" target="_blank" rel="noopener"&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🐦 Twitter: &lt;a href="https://twitter.com/wowchemy" target="_blank" rel="noopener"&gt;@wowchemy&lt;/a&gt; &lt;a href="https://twitter.com/GeorgeCushen" target="_blank" rel="noopener"&gt;@GeorgeCushen&lt;/a&gt; &lt;a href="https://twitter.com/search?q=%28%23MadeWithWowchemy%20OR%20%23MadeWithAcademic%29&amp;amp;src=typed_query" target="_blank" rel="noopener"&gt;#MadeWithWowchemy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💡 &lt;a href="https://github.com/wowchemy/wowchemy-hugo-modules/issues" target="_blank" rel="noopener"&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Wowchemy&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⬆️ &lt;strong&gt;Updating Wowchemy?&lt;/strong&gt; View the &lt;a href="https://wowchemy.com/docs/guide/update/" target="_blank" rel="noopener"&gt;Update Guide&lt;/a&gt; and &lt;a href="https://wowchemy.com/updates/" target="_blank" rel="noopener"&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
+&lt;h2 id="crowd-funded-open-source-software"&gt;Crowd-funded open-source software&lt;/h2&gt;
 &lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
-&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpswowchemycomplans&#34;&gt;&lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;h3 id="-click-here-to-become-a-sponsor-and-help-support-wowchemy"&gt;&lt;a href="https://wowchemy.com/plans/" target="_blank" rel="noopener"&gt;❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href="https://wowchemy.com/plans/" target="_blank" rel="noopener"&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id="ecosystem"&gt;Ecosystem&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/wowchemy/hugo-academic-cli&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic CLI&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://github.com/wowchemy/hugo-academic-cli" target="_blank" rel="noopener"&gt;Hugo Academic CLI&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://wowchemy.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
-&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;h2 id="inspiration"&gt;Inspiration&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://academic-demo.netlify.com/" target="_blank" rel="noopener"&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href="https://wowchemy.com/user-stories/" target="_blank" rel="noopener"&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
+&lt;h2 id="features"&gt;Features&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://wowchemy.com/docs/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href="https://wowchemy.com/docs/page-builder/" target="_blank" rel="noopener"&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener"&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://wowchemy.com/docs/import/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://wowchemy.com/docs/install-locally/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://wowchemy.com/docs/customization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener"&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href="https://wowchemy.com/docs/import/jupyter/" target="_blank" rel="noopener"&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href="https://wowchemy.com/docs/install-locally/" target="_blank" rel="noopener"&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href="https://wowchemy.com/docs/customization/" target="_blank" rel="noopener"&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href="https://en.wikibooks.org/wiki/LaTeX/Mathematics" target="_blank" rel="noopener"&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href="https://analytics.google.com" target="_blank" rel="noopener"&gt;Google Analytics&lt;/a&gt;, &lt;a href="https://disqus.com" target="_blank" rel="noopener"&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
@@ -153,48 +58,15 @@
 &lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
-&lt;p&gt;Wowchemy and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/customization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
-&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
-&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A multi-level optimization framework for simultaneous grasping and motion planning</title>
-      <link>https://roipo.github.io/publication/zimmermann-2020-multi/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://roipo.github.io/publication/zimmermann-2020-multi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Interactive and Smooth Parametrization-Based Quadrangulation</title>
-      <link>https://roipo.github.io/publication/velich-2020-interactive/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://roipo.github.io/publication/velich-2020-interactive/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RoboCut: hot-wire cutting with robot-controlled flexible rods</title>
-      <link>https://roipo.github.io/publication/duenser-2020-robocut/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://roipo.github.io/publication/duenser-2020-robocut/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Slides</title>
-      <link>https://roipo.github.io/slides/example/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://roipo.github.io/slides/example/</guid>
-      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="themes"&gt;Themes&lt;/h2&gt;
+&lt;p&gt;Wowchemy and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href="https://academic-demo.netlify.com/" target="_blank" rel="noopener"&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wowchemy.com/docs/customization" target="_blank" rel="noopener"&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
+&lt;h2 id="license"&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2016-present &lt;a href="https://georgecushen.com" target="_blank" rel="noopener"&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href="https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md" target="_blank" rel="noopener"&gt;MIT&lt;/a&gt; license.&lt;/p&gt;</description></item><item><title>Slides</title><link>https://roipo.github.io/slides/example/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://roipo.github.io/slides/example/</guid><description>&lt;h1 id="create-slides-in-markdown-with-wowchemy"&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://wowchemy.com/" target="_blank" rel="noopener"&gt;Wowchemy&lt;/a&gt; | &lt;a href="https://owchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener"&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;h2 id="features"&gt;Features&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
 &lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
@@ -202,7 +74,7 @@
 &lt;li&gt;Mobile friendly slides&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;h2 id="controls"&gt;Controls&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
@@ -212,40 +84,40 @@
 &lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/hakimel/reveal.js#pdf-export" target="_blank" rel="noopener"&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;h2 id="code-highlighting"&gt;Code Highlighting&lt;/h2&gt;
 &lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;Code block:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+&lt;pre&gt;&lt;code class="language-python"&gt;porridge = &amp;quot;blueberry&amp;quot;
 if porridge == &amp;quot;blueberry&amp;quot;:
-    print(&amp;quot;Eating...&amp;quot;)
+print(&amp;quot;Eating...&amp;quot;)
 &lt;/code&gt;&lt;/pre&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;h2 id="math"&gt;Math&lt;/h2&gt;
 &lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
 &lt;p&gt;Block math:&lt;/p&gt;
 &lt;p&gt;$$
 f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
 $$&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;h2 id="fragments"&gt;Fragments&lt;/h2&gt;
 &lt;p&gt;Make content appear incrementally&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
 {{% fragment %}} **Two** {{% /fragment %}}
 {{% fragment %}} Three {{% /fragment %}}
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
-&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
-One 
+&lt;span class="fragment " &gt;
+One
 &lt;/span&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-&lt;strong&gt;Two&lt;/strong&gt; 
+&lt;span class="fragment " &gt;
+**Two**
 &lt;/span&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-Three 
-&lt;/span&gt;&lt;/p&gt;
+&lt;span class="fragment " &gt;
+Three
+&lt;/span&gt;
 &lt;hr&gt;
 &lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
 &lt;ul&gt;
@@ -253,23 +125,22 @@ Three
 &lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;h2 id="speaker-notes"&gt;Speaker Notes&lt;/h2&gt;
 &lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+&lt;pre&gt;&lt;code class="language-markdown"&gt;{{% speaker_note %}}
 - Only the speaker can read these notes
 - Press `S` key to view
 {{% /speaker_note %}}
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
-&lt;aside class=&#34;notes&#34;&gt;
-  &lt;ul&gt;
+&lt;aside class="notes"&gt;
+&lt;ul&gt;
 &lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
 &lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;/aside&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;h2 id="themes"&gt;Themes&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
 &lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
@@ -285,208 +156,30 @@ Three
 &lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-
 &lt;section data-noprocess data-shortcode-slide
-  
-      
-      data-background-image=&#34;/media/boards.jpg&#34;
-  &gt;
-
-&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+data-background-image="/media/boards.jpg"
+&gt;
+&lt;h2 id="custom-slide"&gt;Custom Slide&lt;/h2&gt;
 &lt;p&gt;Customize the slide style and background&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
+&lt;pre&gt;&lt;code class="language-markdown"&gt;{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
 {{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
 {{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
 &lt;/code&gt;&lt;/pre&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;h2 id="custom-css-example"&gt;Custom CSS Example&lt;/h2&gt;
 &lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
 &lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+&lt;pre&gt;&lt;code class="language-css"&gt;.reveal section h1,
 .reveal section h2,
 .reveal section h3 {
-  color: navy;
+color: navy;
 }
 &lt;/code&gt;&lt;/pre&gt;
 &lt;hr&gt;
-&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Optimal control via second order sensitivity analysis</title>
-      <link>https://roipo.github.io/publication/zimmermann-2019-optimal/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://roipo.github.io/publication/zimmermann-2019-optimal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PuppetMaster: robotic animation of marionettes</title>
-      <link>https://roipo.github.io/publication/zimmermann-2019-puppetmaster/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://roipo.github.io/publication/zimmermann-2019-puppetmaster/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Trajectory optimization for cable-driven soft robot locomotion</title>
-      <link>https://roipo.github.io/publication/bern-2019-trajectory/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://roipo.github.io/publication/bern-2019-trajectory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Interactive robotic manipulation of elastic objects</title>
-      <link>https://roipo.github.io/publication/duenser-2018-interactive/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://roipo.github.io/publication/duenser-2018-interactive/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Model-based optimization of tendon layouts for soft robots</title>
-      <link>https://roipo.github.io/publication/bern-2018-model/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://roipo.github.io/publication/bern-2018-model/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Packable springs</title>
-      <link>https://roipo.github.io/publication/wolff-2018-packable/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://roipo.github.io/publication/wolff-2018-packable/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shape representation by zippables</title>
-      <link>https://roipo.github.io/publication/schuller-2018-shape/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://roipo.github.io/publication/schuller-2018-shape/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Skaterbots: Optimization-based design and motion synthesis for robotic creatures with legs and wheels</title>
-      <link>https://roipo.github.io/publication/geilinger-2018-skaterbots/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://roipo.github.io/publication/geilinger-2018-skaterbots/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Autocuts: simultaneous distortion and cut optimization for UV mapping</title>
-      <link>https://roipo.github.io/publication/poranne-2017-autocuts/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://roipo.github.io/publication/poranne-2017-autocuts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Geometric optimization via composite majorization</title>
-      <link>https://roipo.github.io/publication/shtengel-2017-geometric/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://roipo.github.io/publication/shtengel-2017-geometric/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Scalable locally injective mappings</title>
-      <link>https://roipo.github.io/publication/rabinovich-2017-scalable/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://roipo.github.io/publication/rabinovich-2017-scalable/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Example Project</title>
-      <link>https://roipo.github.io/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://roipo.github.io/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;h1 id="questions"&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://github.com/wowchemy/wowchemy-hugo-modules/discussions" target="_blank" rel="noopener"&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wowchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener"&gt;Documentation&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Example Project</title><link>https://roipo.github.io/project/example/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://roipo.github.io/project/example/</guid><description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
 &lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Simple approximations of planar deformation operators</title>
-      <link>https://roipo.github.io/publication/poranne-2016-simple/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://roipo.github.io/publication/poranne-2016-simple/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On linear spaces of polyhedral meshes</title>
-      <link>https://roipo.github.io/publication/poranne-2015-linear/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://roipo.github.io/publication/poranne-2015-linear/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Seamless surface mappings</title>
-      <link>https://roipo.github.io/publication/aigerman-2015-seamless/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://roipo.github.io/publication/aigerman-2015-seamless/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Feature matching with bounded distortion</title>
-      <link>https://roipo.github.io/publication/lipman-2014-feature/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://roipo.github.io/publication/lipman-2014-feature/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lifted bijections for low distortion surface mappings</title>
-      <link>https://roipo.github.io/publication/aigerman-2014-lifted/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://roipo.github.io/publication/aigerman-2014-lifted/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Provably good planar mappings</title>
-      <link>https://roipo.github.io/publication/poranne-2014-provably/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://roipo.github.io/publication/poranne-2014-provably/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Interactive planarization and optimization of 3D meshes</title>
-      <link>https://roipo.github.io/publication/poranne-2013-interactive/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://roipo.github.io/publication/poranne-2013-interactive/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Biharmonic coordinates</title>
-      <link>https://roipo.github.io/publication/weber-2012-biharmonic/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://roipo.github.io/publication/weber-2012-biharmonic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>3D surface reconstruction using a generalized distance function</title>
-      <link>https://roipo.github.io/publication/poranne-2010-3dsurface/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://roipo.github.io/publication/poranne-2010-3dsurface/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;</description></item><item><title/><link>https://roipo.github.io/publication/2010-poranne-3dsurface/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://roipo.github.io/publication/2010-poranne-3dsurface/</guid><description/></item><item><title/><link>https://roipo.github.io/publication/2012-weber-biharmonic/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://roipo.github.io/publication/2012-weber-biharmonic/</guid><description/></item><item><title/><link>https://roipo.github.io/publication/2013-poranne-interactive/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://roipo.github.io/publication/2013-poranne-interactive/</guid><description/></item><item><title/><link>https://roipo.github.io/publication/2014-aigerman-lifted/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://roipo.github.io/publication/2014-aigerman-lifted/</guid><description/></item><item><title/><link>https://roipo.github.io/publication/2014-lipman-feature/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://roipo.github.io/publication/2014-lipman-feature/</guid><description/></item><item><title/><link>https://roipo.github.io/publication/2014-poranne-provably/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://roipo.github.io/publication/2014-poranne-provably/</guid><description/></item><item><title/><link>https://roipo.github.io/publication/2014-poranne-topics/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://roipo.github.io/publication/2014-poranne-topics/</guid><description/></item><item><title/><link>https://roipo.github.io/publication/2015-aigerman-seamless/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://roipo.github.io/publication/2015-aigerman-seamless/</guid><description/></item><item><title/><link>https://roipo.github.io/publication/2015-lipman-good/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://roipo.github.io/publication/2015-lipman-good/</guid><description/></item><item><title/><link>https://roipo.github.io/publication/2015-poranne-linear/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://roipo.github.io/publication/2015-poranne-linear/</guid><description/></item><item><title/><link>https://roipo.github.io/publication/2016-poranne-simple/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://roipo.github.io/publication/2016-poranne-simple/</guid><description/></item><item><title/><link>https://roipo.github.io/publication/2017-poranne-autocuts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://roipo.github.io/publication/2017-poranne-autocuts/</guid><description/></item><item><title/><link>https://roipo.github.io/publication/2017-rabinovich-scalable/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://roipo.github.io/publication/2017-rabinovich-scalable/</guid><description/></item><item><title/><link>https://roipo.github.io/publication/2017-shtengel-geometric/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://roipo.github.io/publication/2017-shtengel-geometric/</guid><description/></item><item><title/><link>https://roipo.github.io/publication/2018-bern-model/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://roipo.github.io/publication/2018-bern-model/</guid><description/></item><item><title/><link>https://roipo.github.io/publication/2018-duenser-interactive/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://roipo.github.io/publication/2018-duenser-interactive/</guid><description/></item><item><title/><link>https://roipo.github.io/publication/2018-geilinger-skaterbots/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://roipo.github.io/publication/2018-geilinger-skaterbots/</guid><description/></item><item><title/><link>https://roipo.github.io/publication/2018-schuller-shape/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://roipo.github.io/publication/2018-schuller-shape/</guid><description/></item><item><title/><link>https://roipo.github.io/publication/2018-wolff-packable/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://roipo.github.io/publication/2018-wolff-packable/</guid><description/></item><item><title/><link>https://roipo.github.io/publication/2019-bern-trajectory/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://roipo.github.io/publication/2019-bern-trajectory/</guid><description/></item><item><title/><link>https://roipo.github.io/publication/2019-zimmermann-optimal/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://roipo.github.io/publication/2019-zimmermann-optimal/</guid><description/></item><item><title/><link>https://roipo.github.io/publication/2019-zimmermann-puppetmaster/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://roipo.github.io/publication/2019-zimmermann-puppetmaster/</guid><description/></item><item><title/><link>https://roipo.github.io/publication/2020-duenser-robocut/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://roipo.github.io/publication/2020-duenser-robocut/</guid><description/></item><item><title/><link>https://roipo.github.io/publication/2020-velich-interactive/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://roipo.github.io/publication/2020-velich-interactive/</guid><description/></item><item><title/><link>https://roipo.github.io/publication/2020-zimmermann-multi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://roipo.github.io/publication/2020-zimmermann-multi/</guid><description/></item><item><title/><link>https://roipo.github.io/publication/2021-huber-designing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://roipo.github.io/publication/2021-huber-designing/</guid><description/></item><item><title/><link>https://roipo.github.io/publication/2021-karnam-path/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://roipo.github.io/publication/2021-karnam-path/</guid><description/></item><item><title/><link>https://roipo.github.io/publication/2021-kennel-manipulability/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://roipo.github.io/publication/2021-kennel-manipulability/</guid><description/></item><item><title/><link>https://roipo.github.io/publication/2021-seeber-realistic/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://roipo.github.io/publication/2021-seeber-realistic/</guid><description/></item><item><title/><link>https://roipo.github.io/publication/2021-seeber-realistichands/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://roipo.github.io/publication/2021-seeber-realistichands/</guid><description/></item><item><title/><link>https://roipo.github.io/publication/2021-wang-task/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://roipo.github.io/publication/2021-wang-task/</guid><description/></item><item><title/><link>https://roipo.github.io/publication/2021-zimmermann-dynamic/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://roipo.github.io/publication/2021-zimmermann-dynamic/</guid><description/></item><item><title/><link>https://roipo.github.io/publication/2021-zimmermann-go/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://roipo.github.io/publication/2021-zimmermann-go/</guid><description/></item><item><title/><link>https://roipo.github.io/publication/2022-delmerico-spatial/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://roipo.github.io/publication/2022-delmerico-spatial/</guid><description/></item><item><title/><link>https://roipo.github.io/publication/2022-duenser-nonlinear/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://roipo.github.io/publication/2022-duenser-nonlinear/</guid><description/></item><item><title/><link>https://roipo.github.io/publication/2022-jadon-continuous/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://roipo.github.io/publication/2022-jadon-continuous/</guid><description/></item><item><title/><link>https://roipo.github.io/publication/2022-kennel-multi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://roipo.github.io/publication/2022-kennel-multi/</guid><description/></item><item><title/><link>https://roipo.github.io/publication/2022-tukan-obstacle/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://roipo.github.io/publication/2022-tukan-obstacle/</guid><description/></item><item><title/><link>https://roipo.github.io/publication/2022-zamora-learning/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://roipo.github.io/publication/2022-zamora-learning/</guid><description/></item><item><title/><link>https://roipo.github.io/publication/2022-zimmermann-differentiable/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://roipo.github.io/publication/2022-zimmermann-differentiable/</guid><description/></item><item><title/><link>https://roipo.github.io/publication/2023-envall-differentiable/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://roipo.github.io/publication/2023-envall-differentiable/</guid><description/></item><item><title/><link>https://roipo.github.io/publication/2023-envall-mollification/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://roipo.github.io/publication/2023-envall-mollification/</guid><description/></item><item><title/><link>https://roipo.github.io/publication/2023-halbrecht-3d/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://roipo.github.io/publication/2023-halbrecht-3d/</guid><description/></item><item><title/><link>https://roipo.github.io/publication/2023-kennel-interacting/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://roipo.github.io/publication/2023-kennel-interacting/</guid><description/></item><item><title/><link>https://roipo.github.io/publication/2024-keren-efficient/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://roipo.github.io/publication/2024-keren-efficient/</guid><description/></item><item><title/><link>https://roipo.github.io/publication/2024-keren-maximal/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://roipo.github.io/publication/2024-keren-maximal/</guid><description/></item><item><title/><link>https://roipo.github.io/publication/2024-keren-practical/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://roipo.github.io/publication/2024-keren-practical/</guid><description/></item><item><title/><link>https://roipo.github.io/publication/2024-kumar-method/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://roipo.github.io/publication/2024-kumar-method/</guid><description/></item><item><title/><link>https://roipo.github.io/publication/2024-tang-modal/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://roipo.github.io/publication/2024-tang-modal/</guid><description/></item></channel></rss>

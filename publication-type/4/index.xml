@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>4 | Roi Poranne - Research</title>
-    <link>https://roipo.github.io/publication-type/4/</link>
-      <atom:link href="https://roipo.github.io/publication-type/4/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/publication-type/4/</link>
+      <atom:link href="http://localhost:1313/publication-type/4/index.xml" rel="self" type="application/rss+xml" />
     <description>4</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://roipo.github.io/media/icon_huadd83f1983dc09b1610f2d599eb02878_381767_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu_62c0c31eddfc2066.png</url>
       <title>4</title>
-      <link>https://roipo.github.io/publication-type/4/</link>
+      <link>http://localhost:1313/publication-type/4/</link>
     </image>
     
     <item>
       <title>Optimal control via second order sensitivity analysis</title>
-      <link>https://roipo.github.io/publication/zimmermann-2019-optimal/</link>
+      <link>http://localhost:1313/publication/2019-zimmermann-optimal/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://roipo.github.io/publication/zimmermann-2019-optimal/</guid>
+      <guid>http://localhost:1313/publication/2019-zimmermann-optimal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Simple approximations of planar deformation operators</title>
-      <link>https://roipo.github.io/publication/poranne-2016-simple/</link>
+      <link>http://localhost:1313/publication/2016-poranne-simple/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://roipo.github.io/publication/poranne-2016-simple/</guid>
+      <guid>http://localhost:1313/publication/2016-poranne-simple/</guid>
       <description></description>
     </item>
     
