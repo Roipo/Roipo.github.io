@@ -102,7 +102,6 @@ img { max-width: 100%; display: block; }
 }
 .hero .role { font-size: 18px; color: var(--ink-2); margin: 0 0 4px; }
 .hero .role strong { color: var(--ink); font-weight: 600; }
-.hero .tagline { margin: 18px 0 0; font: italic 400 19px/1.5 var(--serif); color: var(--ink-2); max-width: 46ch; }
 
 .links { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 22px; }
 .links a {
